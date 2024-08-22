@@ -164,7 +164,7 @@ color:white;}
 /**hero section**/
 
 .hero-img{
-    background-image: url(background.jpg);
+    background-image: url(Assets/background.jpg);
     background-size: cover;
     height:300px;
     display:flex;
@@ -278,7 +278,7 @@ ul a{
 }
 
 .logo{
-    background-image: url("Amazon-Logo-Black.jpg");
+    background-image: url("Assets/Amazon-Logo-Black.jpg");
     background-size: cover;
     height:50px;
     width:100px;
